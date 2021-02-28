@@ -2,7 +2,7 @@
  * UART_prog.c
  *
  *  Created on: Sep 28, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 #include "LIB/std_types.h"
 #include "LIB/util.h"
