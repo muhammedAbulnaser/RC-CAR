@@ -2,7 +2,7 @@
  * UART_interface.h
  *
  *  Created on: Sep 28, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef UART_INTERFACE_H_
